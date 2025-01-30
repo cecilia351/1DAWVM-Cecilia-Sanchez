@@ -2,7 +2,9 @@
 <html lang="es">
         <head>
         <meta charset="UTF-8" />
-        <title>Ejemplo de formulario en el que estamos comprobando los cambios, para ello utilizaremos tildes, por ejemplo (Jesús)</title>
+        <title>Ejemplo de formulario en el que estamos comprobando los cambios, para ello utilizaremos tildes, por ejemplo (Jesús),
+            a continuación, vamos a volver actualizar el código para seguir viendo los cambios
+        </title>
         </head>
     <body>
         <?php
