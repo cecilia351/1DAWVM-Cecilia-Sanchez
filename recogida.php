@@ -2,7 +2,7 @@
 <html lang="es">
         <head>
         <meta charset="UTF-8" />
-        <title>Ejemplo de formulario en la propia página</title>
+        <title>Ejemplo de formulario en el que estamos comprobando los cambios, para ello utilizaremos tildes, por ejemplo (Jesús)</title>
         </head>
     <body>
         <?php
